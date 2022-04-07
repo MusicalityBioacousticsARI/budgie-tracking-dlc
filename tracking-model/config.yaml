@@ -1,0 +1,249 @@
+    # Project definitions (do not edit)
+Task: dlc_Big_Merge
+scorer: Dami
+date: Jul22
+multianimalproject:
+identity:
+
+    # Project path (change when moving around)
+project_path: .
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina.avi:
+    crop: 0, 354, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina0.avi:
+    crop: 0, 640, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina00.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina01.avi:
+    crop: 0, 888, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina1.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina2.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina3.avi:
+    crop: 0, 1254, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Afina4.avi:
+    crop: 0, 1458, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Bender1.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Bender2.avi:
+    crop: 0, 1394, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis0.avi:
+    crop: 0, 764, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis00.avi:
+    crop: 0, 1312, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis01.avi:
+    crop: 0, 734, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis02.avi:
+    crop: 0, 940, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis03.avi:
+    crop: 0, 1094, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis1.avi:
+    crop: 0, 992, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis10.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis11.avi:
+    crop: 0, 784, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis12.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis2.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis22.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis23.avi:
+    crop: 0, 788, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis3.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis33.avi:
+    crop: 0, 538, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis4.avi:
+    crop: 0, 494, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis44.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis5.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis6.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Elvis7.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf.avi:
+    crop: 0, 614, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf0.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf00.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf1.avi:
+    crop: 0, 756, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf11.avi:
+    crop: 0, 826, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf12.avi:
+    crop: 0, 630, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf2.avi:
+    crop: 0, 758, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf21.avi:
+    crop: 0, 314, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf22.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf3.avi:
+    crop: 0, 1242, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Gandalf4.avi:
+    crop: 0, 956, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig 11.avi:
+    crop: 0, 546, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig.avi:
+    crop: 0, 332, 0, 574
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig0.avi:
+    crop: 0, 842, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig00.avi:
+    crop: 0, 932, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig01.avi:
+    crop: 0, 908, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig03.avi:
+    crop: 0, 818, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig2.avi:
+    crop: 0, 538, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Hedwig22.avi:
+    crop: 0, 422, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury.avi:
+    crop: 0, 756, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury0.avi:
+    crop: 0, 1164, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury00.avi:
+    crop: 0, 850, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury11.avi:
+    crop: 0, 662, 0, 866
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury2.avi:
+    crop: 0, 1142, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury22.avi:
+    crop: 0, 1050, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury3.avi:
+    crop: 0, 1186, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury_1.avi:
+    crop: 0, 1256, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mercury_2.avi:
+    crop: 0, 1154, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Mida.avi:
+    crop: 0, 1266, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Nebel.avi:
+    crop: 0, 880, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck0.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck00.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck01.avi:
+    crop: 0, 1100, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck02.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck03.avi:
+    crop: 0, 1078, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck1.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck10.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck11.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck111.avi:
+    crop: 0, 492, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck12.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck121.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck13.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck14.avi:
+    crop: 0, 1208, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck2.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck22.avi:
+    crop: 0, 1106, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck23.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck24.avi:
+    crop: 0, 1032, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck3.avi:
+    crop: 0, 1242, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck31.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck32.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck33.avi:
+    crop: 0, 1650, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck4.avi:
+    crop: 0, 1188, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Puck5.avi:
+    crop: 0, 654, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara.avi:
+    crop: 0, 864, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara11.avi:
+    crop: 0, 894, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara_1.avi:
+    crop: 0, 266, 0, 720
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara_2.avi:
+    crop: 0, 518, 0, 720
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara_3.avi:
+    crop: 0, 510, 0, 720
+  C:\Users\tamey\Desktop\dlc-big-merch\Yara_4.avi:
+    crop: 0, 418, 0, 720
+  C:\Users\tamey\Desktop\dlc-big-merch\Ziggy.avi:
+    crop: 0, 740, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Ziggy0.avi:
+    crop: 0, 866, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Ziggy1.avi:
+    crop: 0, 1920, 0, 1080
+  C:\Users\tamey\Desktop\dlc-big-merch\Ziggy2.avi:
+    crop: 0, 1920, 0, 1080
+
+bodyparts:
+- cere
+- end of beak
+- right eye
+- left eye
+- right claw
+- left claw
+- end of tail
+start: 0
+stop: 1
+numframes2pick: 100
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 12
+alphavalue: 0.7
+colormap: jet
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.60
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+croppedtraining:
+resnet:
